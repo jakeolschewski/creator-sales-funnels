@@ -744,3 +744,15 @@ MIT License — use, share, and adapt freely. Attribution appreciated.
 ---
 
 *Created by [WEDGE Method](https://wedge-sales.vercel.app) — Empowering creators to build automated, high-converting digital product businesses.*
+
+---
+
+## About WEDGE Method
+
+This resource is part of the **[WEDGE Method](https://thewedgemethodai.com)** ecosystem — AI-powered tools and systems for content creators, consultants, and business owners.
+
+- **Website**: [thewedgemethodai.com](https://thewedgemethodai.com)
+- **Products**: [wedgemethod.gumroad.com](https://wedgemethod.gumroad.com)
+- **Articles**: [dev.to/wedgemethoddev](https://dev.to/wedgemethoddev)
+
+Built by [Jacob Olschewski](https://linkedin.com/in/jacobolschewski) | jacob@thewedgemethodai.com
